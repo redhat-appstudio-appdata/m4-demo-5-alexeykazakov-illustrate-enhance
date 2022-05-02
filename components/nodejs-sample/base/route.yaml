@@ -12,7 +12,7 @@ metadata:
   namespace: alexeykazakov
 spec:
   port:
-    targetPort: 3000
+    targetPort: 3001
   tls:
     insecureEdgeTerminationPolicy: Redirect
     termination: edge
